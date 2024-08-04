@@ -12,10 +12,11 @@ The problems I have been facing are multiple.
 More than 5 messages per minute are very risky.
 
 ## IMPORTANT For BLOCKED WHATSAPP!
-Use a WhatsApp number that has been unblocked for chatting for a minimum of 3 days.
-After feeling secure, contact Wablas admin to request transfer the server.
-After the transfer, try using WhatsApp Desktop or WhatsApp Web for about 2 days.
-If you feel secure, try scanning on Wablas Device.
-After successfully scanning on Wablas, try sending a few messages every day, 1-3 messages per day, for several days.
-Ensure that the "Speed Sending Message" in device settings is above 15.
-If everything feels safe, gradually increase the number of messages sent every day. Keep using the WA application to reply to messages as well.
+
+1. Use a WhatsApp number that has been unblocked for chatting for a minimum of 3 days.
+2. After feeling secure, contact Wablas admin to request transfer the server.
+3. After the transfer, try using WhatsApp Desktop or WhatsApp Web for about 2 days.
+4. If you feel secure, try scanning on Wablas Device.
+5. After successfully scanning on Wablas, try sending a few messages every day, 1-3 messages per day, for several days.
+6. Ensure that the "Speed Sending Message" in device settings is above 15.
+7. If everything feels safe, gradually increase the number of messages sent every day. Keep using the WA application to reply to messages as well.
