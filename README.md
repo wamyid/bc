@@ -24,7 +24,6 @@ More than 5 messages per minute are very risky.
 ## Is there a WhatsApp send limit?
 Yes, WhatsApp has a messaging limit. This is the highest number of conversations a business can initiate with a phone number in a rolling period of 24 hours.
 
-WhatsApp catalog messages
 Initially, business phone numbers can only contact 250 users in a 24-hour moving period. But this number can be increased gradually by following a few practices and meeting the required criteria.
 
 1. [Let us look closely at how to increase your WhatsApp sending limit.](https://developers.facebook.com/docs/whatsapp/messaging-limits/)  
