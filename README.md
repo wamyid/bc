@@ -20,3 +20,24 @@ More than 5 messages per minute are very risky.
 5. After successfully scanning on Wablas, try sending a few messages every day, 1-3 messages per day, for several days.
 6. Ensure that the "Speed Sending Message" in device settings is above 15.
 7. If everything feels safe, gradually increase the number of messages sent every day. Keep using the WA application to reply to messages as well.
+
+## Is there a WhatsApp send limit?
+Yes, WhatsApp has a messaging limit. This is the highest number of conversations a business can initiate with a phone number in a rolling period of 24 hours.
+
+WhatsApp catalog messages
+Initially, business phone numbers can only contact 250 users in a 24-hour moving period. But this number can be increased gradually by following a few practices and meeting the required criteria.
+
+1. [Let us look closely at how to increase your WhatsApp sending limit.](https://developers.facebook.com/docs/whatsapp/messaging-limits/)  
+2. [Pricing](https://developers.facebook.com/docs/whatsapp/pricing)
+
+## Ways to Apply for a WhatsApp Green Tick Badge
+You can either apply for a WhatsApp green tick verification on your META Business Manager or with the help of a Business Service Provider (BSPs) like Wati.
+
+### Meta Business Manager
+1. In your META Business Manager, go to Business Settings -> WhatsApp Accounts -> WhatsApp Manager.
+2. Under Account tools, select ‘phone number’.
+3. On the next page, you’ll find your WhatsApp account details. Click the ‘Settings’ icon to proceed.
+4. Click ‘Profile’, fill in all the details and click the ‘Submit Request’ button.
+5. Once the request is submitted, you can see that your request is in review status.
+
+If you apply for a green tick independently, it usually takes 2-4 business days to know if your application was accepted.[source](https://www.wati.io/blog/whatsapp-green-tick-verification/)
