@@ -29,6 +29,7 @@ Initially, business phone numbers can only contact 250 users in a 24-hour moving
 
 1. [Let us look closely at how to increase your WhatsApp sending limit.](https://developers.facebook.com/docs/whatsapp/messaging-limits/)  
 2. [Pricing](https://developers.facebook.com/docs/whatsapp/pricing)
+3. [interakt](https://www.interakt.shop/blog/increase-whatsapp-messaging-sending-limit/#:~:text=Initially%2C%20business%20phone%20numbers%20can,increase%20your%20WhatsApp%20sending%20limit.)
 
 ## Ways to Apply for a WhatsApp Green Tick Badge
 You can either apply for a WhatsApp green tick verification on your META Business Manager or with the help of a Business Service Provider (BSPs) like Wati.
