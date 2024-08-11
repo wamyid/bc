@@ -41,3 +41,7 @@ You can either apply for a WhatsApp green tick verification on your META Busines
 5. Once the request is submitted, you can see that your request is in review status.
 
 If you apply for a green tick independently, it usually takes 2-4 business days to know if your application was accepted.[source](https://www.wati.io/blog/whatsapp-green-tick-verification/)
+
+### WhatsApp Manager
+
+https://github.com/WhatsApp/WhatsApp-Business-API-Setup-Scripts/issues/59
