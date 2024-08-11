@@ -1,5 +1,7 @@
 # Broadcast WA Tips
 
+https://docs.watzap.id/help/connect-to-whatsapp/tips-anti-banned-whatsapp
+
 ## 1200 BC at a time
 The broadcast I started was named 'Storyboard Broadcast' and currently has 4000 members. As you know, a single broadcast has a limit of 256 people, and thus I had to create 16 such lists to accommodate all the 4000 subscribers. It has been 6 months since I started broadcasting and I have been getting positive reviews about the service.
 
