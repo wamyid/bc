@@ -7,7 +7,12 @@ https://m.aisensy.com/pricing-usd/
 
 20 USD per bulan = 320rb
 
-Marketing message 0.05 = 785
+https://docs.google.com/spreadsheets/d/e/2PACX-1vRVuzQHjIrsm1dKnHsHES1RwZ0oH-1Vo6nsNusKB7RnftArv3IoptbLt1mhu_4vFj-q9flDny7Z4-N0/pubhtml
+
+* Marketing 0.0491 771 
+* Auth 0.03585 563
+* Util 0.0239  376
+* Service 0.0227  357
 
 
 ## SleekFlow
