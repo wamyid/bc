@@ -3,6 +3,8 @@
 https://developers.facebook.com/docs/whatsapp/pricing/
 
 ## WANotifier
+Free
+
 https://wanotifier.com/pricing/
 
 
