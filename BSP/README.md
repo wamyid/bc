@@ -1,5 +1,11 @@
 # BSP Resmi
 
+https://developers.facebook.com/docs/whatsapp/pricing/
+
+## WANotifier
+https://wanotifier.com/pricing/
+
+
 ## AiSensy
 14 hari trial
 Top up dari 30
