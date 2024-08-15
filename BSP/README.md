@@ -37,3 +37,14 @@ Rp437.97 auth
 Rp437.97 marketing
 
 Rp437.97 service conv
+
+
+## Barantum
+897rb/bulan
+https://www.barantum.com/blog/whatsapp-api-pricing/
+
+
+* Utility Conversation: Dikenakan biaya Rp300.00 per satu nomor dalam 24 jam sesi pesan dengan nomor Indonesia.
+* Marketing Conversation: Dikenakan biaya Rp600.00 per satu nomor dalam 24 jam sesi pesan dengan nomor Indonesia.
+* Service Conversation: Dikenakan biaya Rp275.00 per satu nomor dalam 24 jam sesi pesan dengan nomor Indonesia.
+* Authentication Conversation: Dikenakan biaya Rp440.00 per satu nomor dalam 24 jam sesi pesan dengan nomor Indonesia.
