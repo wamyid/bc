@@ -8,3 +8,32 @@ https://m.aisensy.com/pricing-usd/
 20 USD per bulan = 320rb
 
 Marketing message 0.05 = 785
+
+
+## SleekFlow
+https://sleekflow.io/id-id/pricing
+235rb/bulan
+
+
+https://sleekflow.io/id-id/blog/biaya-whatsapp-business-api
+
+Rp285,32 utilitas
+Rp427,97 auth
+Rp586,33 marketing
+
+Rp270,48 user initiated
+Rp450,80 busnis initiated
+
+## Mekari
+
+749rb
+https://qontak.com/harga/
+
+
+https://mekari.com/blog/harga-whatsapp-business-api/#:~:text=Ketentuan%20Biaya%20WhatsApp%20Business%20API%20Terbaru,-WhatsApp%20Business%20API&text=Untuk%20inisiasi%20percakapan%20oleh%20pelanggan,pengguna%20layanan%20WhatsApp%20Business%20API.
+
+Rp596.33 utility
+Rp437.97 auth
+Rp437.97 marketing
+
+Rp437.97 service conv
