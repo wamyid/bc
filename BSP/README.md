@@ -48,3 +48,15 @@ https://www.barantum.com/blog/whatsapp-api-pricing/
 * Marketing Conversation: Dikenakan biaya Rp600.00 per satu nomor dalam 24 jam sesi pesan dengan nomor Indonesia.
 * Service Conversation: Dikenakan biaya Rp275.00 per satu nomor dalam 24 jam sesi pesan dengan nomor Indonesia.
 * Authentication Conversation: Dikenakan biaya Rp440.00 per satu nomor dalam 24 jam sesi pesan dengan nomor Indonesia.
+
+## Wati
+49 USD / 770rb
+https://www.wati.io/id/pricing/
+
+
+* 0.04932 marketing 774
+* 0.024 utility 377
+* 0.0228 service  358
+* 0.036 auth 565
+
+https://drive.google.com/file/d/17ZAQX91bQZOP6Iu4BVnrLyjaYw3ryNQi/view
