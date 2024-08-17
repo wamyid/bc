@@ -3,7 +3,7 @@
 https://developers.facebook.com/docs/whatsapp/pricing/
 
 ## WANotifier
-Free
+Free, tapi agak ribet di setup dan centang hijau mandiri
 
 https://wanotifier.com/pricing/
 
