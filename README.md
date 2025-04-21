@@ -1,5 +1,11 @@
 # Broadcast WA Tips
 
+Pesan broadcast yang dimaksud disini bukan hanya pesan yang sama, tetapi termasuk pesan yang terlihat template. Seperti ada nama dan atau alamat yang berbeda beda, tapi badan isinya sama. Header atau footer yang berbeda termasuk dalam kategori broadcast message.
+
+Rule of Thumb:
+1. Jangan broadcast lebih dari 5 pesan per menit(serta gunakan waktu acak untuk pengiriman pesan)
+2. Jangan broadcast lebih dari 250 kontak dalam 24 jam
+
 ## Is there a WhatsApp send limit?
 Yes, WhatsApp has a messaging limit. This is the highest number of conversations a business can initiate with a phone number in a rolling period of 24 hours.
 
