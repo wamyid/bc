@@ -1,6 +1,15 @@
 # Broadcast WA Tips
 
-https://docs.watzap.id/help/connect-to-whatsapp/tips-anti-banned-whatsapp
+## Is there a WhatsApp send limit?
+Yes, WhatsApp has a messaging limit. This is the highest number of conversations a business can initiate with a phone number in a rolling period of 24 hours.
+
+Initially, business phone numbers can only contact 250 users in a 24-hour moving period. But this number can be increased gradually by following a few practices and meeting the required criteria.
+Sending broadcast message(with same structure template) more than 5 messages per minute are very risky.
+
+1. [Let us look closely at how to increase your WhatsApp sending limit.](https://developers.facebook.com/docs/whatsapp/messaging-limits/)  
+2. [Pricing](https://developers.facebook.com/docs/whatsapp/pricing)
+3. [interakt](https://www.interakt.shop/blog/increase-whatsapp-messaging-sending-limit/#:~:text=Initially%2C%20business%20phone%20numbers%20can,increase%20your%20WhatsApp%20sending%20limit.)
+4. [Watzap](https://docs.watzap.id/help/connect-to-whatsapp/tips-anti-banned-whatsapp)
 
 ## 1200 BC at a time
 The broadcast I started was named 'Storyboard Broadcast' and currently has 4000 members. As you know, a single broadcast has a limit of 256 people, and thus I had to create 16 such lists to accommodate all the 4000 subscribers. It has been 6 months since I started broadcasting and I have been getting positive reviews about the service.
@@ -22,15 +31,6 @@ More than 5 messages per minute are very risky.
 5. After successfully scanning on Wablas, try sending a few messages every day, 1-3 messages per day, for several days.
 6. Ensure that the "Speed Sending Message" in device settings is above 15.
 7. If everything feels safe, gradually increase the number of messages sent every day. Keep using the WA application to reply to messages as well.
-
-## Is there a WhatsApp send limit?
-Yes, WhatsApp has a messaging limit. This is the highest number of conversations a business can initiate with a phone number in a rolling period of 24 hours.
-
-Initially, business phone numbers can only contact 250 users in a 24-hour moving period. But this number can be increased gradually by following a few practices and meeting the required criteria.
-
-1. [Let us look closely at how to increase your WhatsApp sending limit.](https://developers.facebook.com/docs/whatsapp/messaging-limits/)  
-2. [Pricing](https://developers.facebook.com/docs/whatsapp/pricing)
-3. [interakt](https://www.interakt.shop/blog/increase-whatsapp-messaging-sending-limit/#:~:text=Initially%2C%20business%20phone%20numbers%20can,increase%20your%20WhatsApp%20sending%20limit.)
 
 ## Ways to Apply for a WhatsApp Green Tick Badge
 You can either apply for a WhatsApp green tick verification on your META Business Manager or with the help of a Business Service Provider (BSPs) like Wati.
